@@ -1,0 +1,51 @@
+AGE,GPA,ATTENDANCE_RATE,MAJOR
+24,4.24,44,Computer Science
+25,3.86,46,Economics
+21,6.47,39,Business Informatics
+22,8.52,78,Economics
+18,7.22,95,Design
+22,9.59,51,Computer Science
+25,4.24,52,Business Informatics
+17,5.37,80,Economics
+21,5.64,90,Design
+20,3.69,78,Design
+21,9.05,93,Design
+20,3.24,47,Business Informatics
+24,6.49,44,Business Informatics
+22,4.26,100,Business Informatics
+21,5.79,33,Business Informatics
+19,3.14,87,Design
+22,5.26,98,Design
+21,6.6,72,Business Informatics
+23,5.66,65,Design
+17,4.23,44,Economics
+21,8.01,36,Business Informatics
+24,9.39,73,Economics
+24,5.2,37,Business Informatics
+25,5.1,70,Business Informatics
+24,4.9,93,Design
+24,8.21,84,Computer Science
+21,6.54,38,Economics
+21,5.22,50,Design
+19,4.15,48,Design
+23,5.04,58,Business Informatics
+25,5.46,47,Design
+22,4.06,70,Design
+23,4.22,92,Business Informatics
+25,5.6,58,Computer Science
+24,7.96,54,Computer Science
+21,6.52,34,Business Informatics
+17,6.94,85,Design
+18,5.67,36,Design
+23,7.16,72,Design
+18,3.78,81,Business Informatics
+20,8.38,81,Computer Science
+19,7.78,61,Business Informatics
+22,5.82,77,Design
+20,5.79,74,Economics
+21,6.86,82,Design
+25,3.89,71,Design
+22,4.27,92,Business Informatics
+21,3.33,99,Economics
+20,6.66,82,Business Informatics
+17,7.95,100,Economics
